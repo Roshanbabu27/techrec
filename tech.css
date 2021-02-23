@@ -1,0 +1,30 @@
+body{
+padding:20px;
+color:purple;
+line-height:20px;
+}
+h1{
+padding:20px;
+border-color:black;
+border-width:3px;
+font-family:cooper black;
+text-decoration:underline;
+text-align:center;
+}
+h2,h3,h4{
+font-famil:cooper black;
+text-decoration:underline;
+}
+p{
+font-family:arial black;
+font-weight:normal;
+}
+.highlight{
+background-color:yellow;
+}
+
+
+
+
+
+
